@@ -1,0 +1,31 @@
+the browser grows muscles. JS takes over the world
+the web stops being a collection of documetns
+and becomes software running inside the browser
+
+this is the era where:
+    AJAX becomes default
+    JSON replaces XML
+    REST becomes the standard API pattern
+    SPA appear 
+    JQUERY BEcoems the unofficial governer of hte internet
+
+Data Flow of Phases 3
+
+Browser SPA --> JSON API ----> SErver logic ----> database
+the browser runs the UI LOGIC
+The server becomes a pure data machine
+
+think:
+    gmail 2010
+    facebook 2012
+    twitter 2014
+    pinterest, linkedin, trello, early
+
+
+Technologies that defined this era
+
+j query
+
+json become dominant -- jsonwins
+
+rest api -- every startup suddently exposes endpoints like this 

@@ -1,0 +1,26 @@
+the cloud grows up. Deployment stops being a torture device.
+two big inventions saved humanity from FTP misery
+
+1. AWS EC2 (2006)
+u can spin up a virtual linux server with one click
+
+2. Heroku (2007)
+u can deploy just by running git push
+
+suddenly we have:
+    GIT BASED deployments
+    build pipelines
+    logs
+    environment variables
+    staging servers
+    CI/CD tools like jenkins
+
+
+deployemnt becomes:
+    commit
+    push
+    ci builds
+    servers restarts properly
+
+not glamourous, but at least u dont accidentally nuke your site by dragging a wrong file
+

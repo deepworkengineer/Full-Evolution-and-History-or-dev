@@ -1,0 +1,25 @@
+remembering stuff
+
+when data needs to be shared everywhere
+
+u need to remember:
+    is user logged in?
+    what in thier cart
+    their theme preference
+    current posts loaded
+
+this data needs to be availbale everywhere in your app
+
+tools:
+    usestate = for simple local stuff
+    zustand = for global app state
+    react query = for server data 
+
+what u create:
+    central store that remembers
+        current user
+        all loaded posts
+        app settings
+
+
+like your brain remembering things. Your app needs memory tool State = app memory

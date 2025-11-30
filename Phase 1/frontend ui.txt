@@ -1,0 +1,21 @@
+HTML 1.0
+
+that it
+
+    no colors
+    no css
+    no layout
+    no styling
+    no fonts
+    no responsive anything
+
+you had:
+    <h1>
+    <p>
+    <a>
+    <img>
+    <u1>
+    <pre>
+
+
+                                      

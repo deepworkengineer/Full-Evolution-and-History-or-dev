@@ -1,0 +1,22 @@
+SQL ARRIVES (1995 - 2005)
+sql database introduce
+    tables
+    rows
+    columns
+    primary keys
+    foreign keys
+    joins
+
+    suddenly the web can remember
+    now u can build
+        login systems
+        blogs
+        e commerce
+        admin panels
+        dashboard
+        forms that save data
+
+    this is the era where the classic LAMP stack took over the world
+    LINUX + APACHE + MYSQL + PHP
+    this combo literally powered almost every site you visitedin the 2000s
+    because SQL solved the data problem beautifully

@@ -1,0 +1,9 @@
+there are 5 huge changes
+
+        SQL becomes cloud native
+        NoSQL becomes effortless and serverless
+        New datastores appear for AI, graphs, edge
+        Data becomes globally distributed by default
+        database act live APIs not hardware
+    
+    

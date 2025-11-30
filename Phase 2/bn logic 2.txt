@@ -1,0 +1,14 @@
+severs finally grow neurons
+
+languages like PHP and ASP ========= suddenly the server can think a little
+
+servers can now:
+    handle forms
+    check username / password
+    pull stuff from database
+    generate HTML on the fly
+    track users with session / cookies
+
+every file had HTML + LOGIC mashed together like bad noodles
+
+

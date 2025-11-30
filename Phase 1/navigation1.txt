@@ -1,0 +1,13 @@
+you have a html files       index.html, about.html, contact.html
+you click a link
+browser throws away the current page
+browser loads the new file from the server
+
+
+cool, you want a new file. i'll get fetch it 
+
+    entire page resets
+    scrolls resets
+    inputs resets
+    server roundtrip everytime
+    feels flwo as hell today but was normwl then

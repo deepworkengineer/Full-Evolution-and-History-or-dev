@@ -1,0 +1,10 @@
+
+new tags you couldnt use in 1990:
+    <table> - the king of layout
+    <tr>, <id> - structure the page
+    <img> - usable everywhere
+    <form> got updates
+    <iframe> introduced
+    <meta> tags
+    <divs> [game changer later]
+

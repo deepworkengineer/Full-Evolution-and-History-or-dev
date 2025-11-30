@@ -1,0 +1,21 @@
+backend stop being chaos and become real engineering
+frameworks like Django, Rails, Lavaral show up and save developers from emotional breakdowns
+they bring:
+    routing (clean URL)
+    MVC (Proper structure)
+    templating system
+    ORM (no raw SQL everywhere)
+    Migration (versioned DB Changes)
+    Easy auth
+    JSON API (frontend can use them)
+this is when backend become organized, predictable, and u could finally show your code to other humans without shame
+
+routing: URL stop being tied to files
+    old days (phase 2)
+    profile.php?id=23
+    u literally had a file for each page . 
+    phase 3:
+    /users/23
+    the url is just a pattern and a router says:
+        when someone visit this URL, run this controller function
+    clean, organized no more 1000 .php files

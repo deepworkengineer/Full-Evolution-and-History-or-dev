@@ -1,0 +1,17 @@
+developers get tools, but the tools are clumsy and annoying
+this era gave u some flashy apps that looked helpful but were secretly troublemakers
+
+    dreamweaver let you drag and drap UI
+    FrontPage tried to auto generate HTML
+    phpMyAdmin gave you a visual database interface
+    Early IDEs like VS CODE, existed but were heavy
+
+    and version control?
+    SVN and CVS felt like they were designed by someoen who heated devs
+
+    everything kind of worked, but everything also broke easily
+
+    deployment were literally
+    open filezilla ---> drag files to server ----> pray
+
+    

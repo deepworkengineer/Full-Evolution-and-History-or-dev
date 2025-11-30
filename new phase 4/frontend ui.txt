@@ -1,0 +1,18 @@
+look at instagram design and break it into pieces
+    post card component
+    story circle component
+    like button component
+    comment box comp
+    navigation bar comp
+
+tools you can:
+    react --- build comp
+    tailwind css --- style them quickly
+    shadn/ui = premade beautiful comp
+    material ui
+    chakra ui
+
+post comp, a story comp, navbar comp
+
+
+

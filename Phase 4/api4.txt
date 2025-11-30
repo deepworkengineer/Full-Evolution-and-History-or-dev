@@ -1,0 +1,21 @@
+API becomes smart, fast, typed and real time
+
+new types of APIs appear:
+    GraphQL: ask only for the exact data u need
+    gRPC: super fast binary communication
+    tRPC: automatic typescript types across client / server
+    Websockets: real time messages(chat / notifications)
+    Edge Functions: API run close to the user for speed
+
+modern API also have
+    type safety
+    global deployment
+    caching
+    real time streams
+    monitoring
+    API gateway
+    AI focused endpoints
+
+think of it taking to a personal assistant who already knows what format u want, answeres, instantly and stays updated in real time
+
+

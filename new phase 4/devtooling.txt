@@ -1,0 +1,15 @@
+- TypeScript (everywhere)
+- Webpack → Parcel → Vite → Turbopack
+- Babel
+- ESLint
+- Prettier
+- Docker
+- GitHub Actions
+- Monorepo tools (Nx, Turborepo)
+- Storybook
+- VS Code becomes king
+- Local AI Devtools
+
+
+
+

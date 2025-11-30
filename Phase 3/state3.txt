@@ -1,0 +1,46 @@
+think gmail, fb, x, maps
+
+
+suddently the browser had to 
+    update the parts of the page without reload
+    handle dozens of buttons, inputs, popups
+    remember lots of data
+    stay resposnive
+    fetch more data without refreshing
+    show instant UI changes
+
+the small tricks from PHASE 2 werent enough 
+so developers tried eveything everywhere
+
+
+JS Variables
+
+temp memory
+    great until page relaods, then bye bye
+
+    useful for small stuff like
+        ui flags
+        temporary selections
+
+
+
+jQuery Plugin
+
+every jQuery plugin stored state in random places
+
+ui + state got mized like noodles in soup
+every button click could break something
+
+
+
+AngularJS 2-way binding
+
+change input -> UI updates
+change UI -> data updates
+
+cool... but it become chaotic
+
+    too many watches
+    too many automatic updates
+    performance died
+    debugging was nightware fuel

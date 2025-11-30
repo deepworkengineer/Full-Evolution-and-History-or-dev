@@ -1,0 +1,24 @@
+deployment becomes magicaly and global
+
+this is the vercel / netlify era
+
+you push to Git, the platform
+
+    builds the app
+    deployes globally
+    gives instant preview URL
+    sets up HTTPS
+    auto scales functions
+    rolls back in seconds
+    manages env vars
+    distributes static files to 20 + regions
+
+
+u iterally do nothing
+
+no servers
+no ssh
+no config nigthmares
+just git push.
+
+everything else is handles behind your back (in a good way, suprisingly)

@@ -1,0 +1,14 @@
+no database
+the early web is literally a photocopy machines
+there is no state, no memory, no persistence
+
+    u couldnt remember their name
+    u couldnt store a password
+    u couldnt track a cart
+    u couldnt save a blog post
+    u couldnt even record a like button
+
+    this wasnt a technical preference
+    it was because the web had not invented the idea of storing data on the server yet.
+
+    that entire phase

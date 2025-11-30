@@ -1,0 +1,212 @@
+frontend ui (how websites look)
+
+web finally started looking decent instead of just plain text on white page
+
+the story:
+    before this, website were basically just text documents
+    now with HTML 3 and 4, you could add structure --- heading, paragraphs, lists
+    CSS arrived in 1996 and was revolutionary --- suddenly u could change colors, fonts, spacing without Mixing it into HTML
+    designers used tables to create layouts -- they'd nest invisible tables to position things. It was messy but it worked
+    add images (png, jpeg)
+    header, sidebar, main content, footer
+
+
+
+
+
+frontend logic (making pages interactive)
+
+pages could now respond to what u did without asking the server
+before js, u forgot to fill in a form field, u click submit wait for the page to reload, then see an error message
+now js, could check ur form BEFORE submitting -- hey, u forgot your email
+u could click a button and see a dropdown menu appear
+you could hover over something and see it change color
+pop up window become possible
+
+the dom -- it let js see and change any part of the webpage, 
+
+
+
+
+
+
+navigation 
+
+
+still mostly pages reloading
+
+navigation works like this:
+    u click a link
+    browser loads a new page from server
+    entire screen refreshes
+
+1. PHP / ASP routes generate pages dynamically
+2. people experiment with #navigation
+3. no real SPA yet
+4. in 2004, AJAX finally gave partial updates (baby SPA)
+
+
+
+
+State Management 
+
+the web starts remeebring things
+
+before this, the web had memory of the goldfish
+
+now we get,
+    cookies
+    backend sessions 
+    hidden fields inside forms
+    js variables for quick page level memory
+
+this makes possible
+    login
+    shopping carts
+    remember me
+    saving form data
+    user preferences
+the web finally has short term and long term memory
+
+
+
+data flow 
+
+two kinds of data flows emerge
+
+    a) full page reload 
+
+    user ---> server ---> database ---> server ---> HTML ---> reload
+    every action = new page
+
+
+    b) ajax (2004)
+    the big invention
+
+    browser can ask quietly
+    GET / api/products
+
+    without refreshing the screen
+
+    the first true web app experience begins
+
+    data formats
+        HTML chunks
+        XML
+        JSON 
+    this is how gmail 2004 felt so fast
+
+
+
+
+6. BACKEND LOGIC 
+
+the server grows a brain
+
+technologies
+    PHP
+    ASP
+    JSP / Servers
+    Perl CGI still early
+
+Serverss can now:
+    generate HTML dynamically
+    process forms
+    check passwords
+    talk to database
+    manage sessions
+    render pages based on data
+
+instead of sending static files servers compute and respond
+
+
+
+
+7. DATABASE
+
+the web becomes persistent
+
+database join the gamel
+    mysql
+    postgresql
+    oracle
+    sql server
+now u can store
+    users
+    posts
+    comments
+    product inventory
+    orders
+    sessions
+this is the birth of 
+    blogs
+    forums
+    e commerce
+    early social network
+
+
+auth
+
+    user enters email/password
+    servers checks in db
+    servers creates a sessions
+    server gives browser a cookie with session id
+    browser sends cookie every time
+    server knows who u r
+
+no JWT
+no OAUTH
+no magic
+just sessions in a db
+
+
+
+
+servers
+
+    servers become capable instead of dumb
+        apache
+        iis
+        tomcat
+
+    what servers now do
+        run backend code (PHP, ASP, JSP)
+        maintain sessions
+        handle cookies
+        manage file uploads
+        serve static files
+        schedule tasks (cron jobs)
+
+
+
+API     
+
+    api exists but uglier than your worst nightmare
+
+    XML
+    SOAP (Painful)
+    early REST
+    JSON is around but barely used
+
+    API Support
+        product listing
+        payments
+        shipping
+        third party integration
+        desktop mobile app 
+
+
+
+
+DevTooling
+
+    tools finally show up
+
+    dreamweaver 
+    frontpage
+    phpMyAdmin
+    early IDE
+    FTP clients
+    SVN / CVS
+
+    

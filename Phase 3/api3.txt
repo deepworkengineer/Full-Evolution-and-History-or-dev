@@ -1,0 +1,17 @@
+APIs finally become simple and clean
+
+    JSON becomes the standard
+    small, clean, easy for JS
+
+    REST becomes the rule
+    GET, POST, PUT, DELETE
+
+    OAuth lets you log in using GOOLE / FB
+    CORS allows browsers to call APIs safety
+
+    Mobile apps and websites all use the same API
+
+    think of it like normal conversation
+    short sentences, clear meaning, easy to understand
+
+    

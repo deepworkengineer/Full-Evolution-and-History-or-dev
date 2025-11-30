@@ -1,0 +1,17 @@
+after ui looks good, make it DO things
+
+and the brain to your components
+
+    when user clicks "like" heart forms red
+    when user types comment, it shows charactter count
+    when user scrolls, load more posts
+
+tools u user:
+    react users
+    typescript
+    custom functions
+
+what u create
+    functions like handleLike(), handleComment(), loadMorePosts()
+
+    

@@ -1,0 +1,34 @@
+you ask for file
+server gives file
+reset the universe
+you ----> get /index.html
+server ---> here
+
+static files
+dumb browser
+dumb server
+HTML only
+
+what doesnt exist
+APIs
+JSON
+dynamic content
+sessions
+database (for the web)
+
+phase 2 (1995 - 2005) - DATA FLOW
+the web learns how to talk
+dynamic content is born. Websites finally get a memory
+
+full page reload 
+form ---> backend ---> db ---> new html ---> reload
+
+example:
+post/login
+server checks DB
+server responds with login.html
+browser reloads
+
+
+slow, clunky, but worked
+

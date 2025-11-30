@@ -1,0 +1,16 @@
+this is when navigation stops being painful
+
+early years: still servers routing (PHP, rails)
+later years: client side routers are born
+
+    backbone router
+    angular js router
+    hash routing: /#/profile
+    then HTML5 history API
+
+now you can click around without reload
+everything feels like a baby app
+
+SPAs show up and say
+hey server, i ll handle navigation from now on
+

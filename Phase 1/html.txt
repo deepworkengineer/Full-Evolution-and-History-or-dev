@@ -1,1 +1,112 @@
-this is start of a new era
+frontend ui (1990)
+
+no colors, css,layout, styling, fonts, no responsive anything
+<h1>, <p>, <a>, <img>, <ul>, <pres>
+
+
+frontend logic (1990)
+
+none, zero, nada
+browsers couldn't run scripts
+no javascript
+no interactivity
+the page was dead and static
+
+
+navigation / routing 
+
+this reloaded an entire new HTML file
+no SPA
+no router libraries
+just clicking links
+
+
+
+state management 
+
+
+none
+the browser remembered nothing
+every request was fresh
+no
+    cookies
+    sessions
+    localstorage
+    javascript variables
+every page reload = full reset
+
+
+data flow 
+
+request -> server -> static files -> response
+the entire data flow
+browser: GET / index.html
+server: HERE
+no POST, JSON, API, async
+
+
+
+Backend logic 
+
+none
+server did not compute anything
+they just served files
+no decisions, rendering, variables, processing
+thsi is why the web was basically a public library not an app
+
+
+database
+
+none
+the web couldnt store anything
+no mysql
+no postgresql
+no text storage
+no server memory
+only static files existed
+
+
+auth / logic
+no sessions, cookies, accounts, passwords
+
+
+servers
+
+early HTTP domains (CERN httpd)
+read a request
+map it to a file
+send that file's bytes
+no routing, middleware, templating, rendering
+
+
+
+hosting / deployment
+
+FTP upload to a UNIX machine
+ftp yourserver.com
+put index.html
+site was live
+no build
+no completion
+no bundling
+just dump files in /var/www/html/
+
+
+APIs
+
+none
+no rest, json, xml, soap
+
+
+devtooling
+
+plain text editors
+notepad level tools
+    ide
+    debudding
+    linting
+    version control
+    npm
+    frameworks
+    cli tools
+people coded HTML like it was diary writing

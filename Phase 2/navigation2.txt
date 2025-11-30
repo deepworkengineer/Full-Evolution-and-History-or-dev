@@ -1,0 +1,21 @@
+stone age --- links reload the whole page
+
+cool, i'll throw the entire screen away and draw a new one
+
+that it 
+no tricks
+no spa s
+no nothing
+
+
+slightly less stone age
+
+still the same basic idea
+    every link = full page reload
+    server creates new HTML each time (PHP, ASP, JSP)
+    you click "profile" --> Server literally sends profile.php
+
+people tried weird JS hacks with #page1
+but honestly ... still caveman routing
+
+

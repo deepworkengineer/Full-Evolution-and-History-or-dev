@@ -1,0 +1,17 @@
+backends turn into cloud monsters
+
+everything goes global, fast, distributed and way too over engineered
+
+new toys:
+    microservices
+    serverless functions
+    distributed event systems
+    container + kubernetes
+    typed APIs
+    Edge computing
+    Real time everything
+    AI integrations
+
+everything auto scales, self heals, deploys everywhere, and runs magic at the edge of the internet
+
+why one backend when u can have 200 tiny ones screaming in the cloud

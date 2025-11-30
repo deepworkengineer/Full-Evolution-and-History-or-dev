@@ -1,0 +1,16 @@
+when u need multiple pages
+
+    creates different pages:
+        home feed page
+        profile page
+        search page
+        post detial page
+
+    make them switch WITHOUT page reload 
+
+
+TOOLS you use:
+    next.js ==== auto routing (each file = one page)
+    react router ==== manual routing
+    file structure creates routes automatically
+

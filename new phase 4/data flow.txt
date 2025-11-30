@@ -1,0 +1,19 @@
+when u need read data 
+
+fetch posts from database
+show loading spinner while fetching
+display real posts when they arrive
+
+
+    fetch api = get data from server
+    axios = better fetch
+    react query = smart data fetching (caches, auto refreshes)
+    graphql = ask for exactly the data u need
+
+
+user open apps:
+    --- app asks server: "Give me posts"
+    --- server sends posts
+    --- app shows posts
+
+    

@@ -1,0 +1,16 @@
+thoughout development -- how frontend and backend talk
+
+define HOW your frontend and backend communicate
+    what url to call?
+    what data format?
+    what can you ask for?
+
+tools you use:
+    REST API: traditional (GET, POST, PUT, DELETE)
+    graphQL: ask for exactly what you need
+    tRPC: Typescript end to end type safety
+
+what u create:
+    GET /api/posts = returns all posts
+    POST /api/posts = creates new posts
+    GET /api/users/123 = returns user 123

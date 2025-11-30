@@ -1,0 +1,13 @@
+what the browser could do, nothing
+
+
+html was a document viewer
+
+you write html 
+browser displays html
+users cries because the page never changes
+
+
+frontend logic = 0%
+
+human suffering = 100%

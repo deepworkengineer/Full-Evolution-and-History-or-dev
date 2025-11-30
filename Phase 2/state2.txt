@@ -1,0 +1,68 @@
+javascript variables
+
+temporary memory that dies instantly
+
+    cool it rememebers count as long as you dont reload
+
+    browser nukes the javascrpt world
+
+        variables
+        functions
+        timers
+        state
+
+
+
+cookies
+
+tiny text files the browser keeps for the website
+cookies were honestly the only sane way to remember things across pages
+
+settings a cookie
+reading a cookie
+
+what servers did
+    when u logged in, server sent u something like
+
+    browser stored it 
+        now every request you make auto included it 
+
+    no human intervetion
+    browser just attaches it like a clingy friend
+
+
+
+
+backend sessions
+
+real memory lives in the server, not the browser
+
+cookies hold only the key
+session data lives in the backedn
+
+browser only sends
+
+    who u are
+    ur cart
+    your preference
+    your step in the form
+
+
+login:
+    user logs in 
+    server creates a session now
+    sets session cookie
+
+adding to cart
+    user clicks add to cart
+    browser sends cookies
+    server finds session
+    server updaaes cart in session now
+
+multi page checkout
+    each page uses hidden field
+
+preference like dark mode
+    stored in cookie: theme = dark
+    every page checks the cookie
+    uses the theme

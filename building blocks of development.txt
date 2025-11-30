@@ -1,0 +1,23 @@
+frontend UI ---- DESIGN
+
+frontend logic -- CODE RUNNING IN THE BROWSER
+
+navigation / routing --- how users move between screens
+
+state management ----- remembering data on screen
+
+data flow ------------ how data moves between frontend and backend
+
+backend logic -------- code running on the server
+
+database ------------- where data stays permanently
+
+authentication ------- login, identity, sessions
+
+servers ------------- the machine doing the work
+
+hosting / deployment ---- putting your app online
+
+api's ------------------  communications between systems
+
+devtooling ------------- tools developers use to build apps

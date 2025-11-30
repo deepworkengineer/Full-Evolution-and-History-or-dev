@@ -1,0 +1,16 @@
+developers typed everything manually. Zero Help, zero mercy
+imagine opening a blank notepad file and writing
+
+<html>
+<head>
+<title>Hello<
+
+
+and you only toold is your eyeballs
+
+no auto complete
+no linting
+no syntax checking
+no version control
+
+k

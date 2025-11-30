@@ -1,0 +1,20 @@
+when u need user to login
+
+    create login / sign up:
+        user creates account
+        user logs in
+        user stays logged in
+        user can logout
+
+    tools u use:
+        nextauth.js === Easy login for Next.js
+        clerk ========= Beautiful pre made login
+        supabase auth ---- comes with supabase
+        firebase auth ---- google auth services
+
+
+    what you creates:
+        login create
+        signup page
+        protected routes 
+        session management

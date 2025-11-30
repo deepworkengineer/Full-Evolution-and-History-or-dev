@@ -1,0 +1,21 @@
+when u need to process data, save to database
+
+create the restaurant kitchen that:
+    recieves requests from backend
+    processes them (create post, like photo, follow user)
+    talks to database
+    sends response back
+
+tools u use:
+    next.js api routes: easiest (built into next.js)
+    express.js : traditional node.js server
+    serverless functions: individual cloud functions
+
+api endpoints
+    /api/posts ===> get all posts
+    /api/posts/create ====? create new posts
+    /api/posts/like ------> like a post
+    /api/users/follow ----> follow someone
+
+
+    

@@ -1,0 +1,37 @@
+websites suddenly become planet - sized
+
+fb hits 1 billions users
+twitter is spewing millions of posts per hour
+
+SQL alone cant handle
+
+    billions of logs
+    real time feeds
+    flexible schemas
+    weird JSON like social data
+    massive write traffic
+
+NoSQL =  databases that:
+
+    dont use tables
+    dont use schemas
+    dont need joins
+    can scale horizontally like beasts
+
+MongoDB, Redis, Cassandra become the new toys
+
+
+SQL evolves:
+    btter indexes
+    better replication
+    better concurracy
+    better performance
+
+
+
+fb is a social graph
+everything is a relationship
+
+the socail graph shape looks like:
+
+you cannot easily store this in normal SQL at FB scale

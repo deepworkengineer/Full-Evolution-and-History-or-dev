@@ -1,0 +1,256 @@
+frontend ui
+
+web pages turn into lego blocks
+this era finally throws the old HTML files everywhere style
+    react becomes the default
+    vue spikes in popularity
+    svelte introduced complier based ui
+    tailwind gives utility classes
+    design system 
+
+    build ui ===== componenets (not random HTML, mashed together)
+    a button === a component
+    a card ===== a component
+    a navbar === a component
+    everything is reuseable and consistent
+
+
+frontend logic
+
+js becomes a real engineering lang
+
+by now js isnt that messy kid from the 90s
+its powerful typed reactive and running everywhere
+
+    react hooks --> simple logic
+    vue composition api ---> structured logic
+    svelte ---> automatic reactivity
+    servive workers ---> offline apps
+    web workers ----> background processing
+
+
+
+
+
+nav 
+
+routing gets smarter than most humans
+
+click --> page relods
+
+    next.js file-based routes
+    react router
+    remix server first routing
+    nested routes
+    prefetching
+    instant transitions
+
+some routes load on the server
+some load on the client
+some load on the edge
+
+the web finally gets app like navigation
+
+
+
+
+state managment
+
+state finaly stops being nightmare
+
+early era gave us Redux choas
+later era gives new solution
+
+    zustand
+    recoil
+    jotai
+    xstate
+    react query  / swr for server state
+    signals 
+
+let the backend store the truth
+frontend only caches and syncs
+
+
+
+
+data flow
+
+data stop being a simple request and becomes full pipeline
+
+    graphql
+    grpc
+    trpc
+    streaming apis
+    edge api
+    server components
+    react query / swr
+    apollo relay
+
+data now moves through a chain
+    browser
+    server
+    edge locations
+    global database
+    caches
+    event streamsn
+
+
+
+
+backend logic
+
+backend evolve into cloud native machines
+    express / fastify / nestjs
+    go fw
+    python fast api
+    rust web servers
+    next.js server functions
+    serverless functions (lambda)
+
+
+architectures
+    microservices
+    event driven system
+    message queries
+    serverless compute
+    distributed cron
+    edge rendering
+
+
+
+
+
+data flow 
+
+data stop being a simple request and becomes a full pipeline
+
+    graphql
+    grpc
+    trpc
+    streaming api
+    edge api
+    server components
+    react query / swr
+
+data now moves through a chain
+
+browser
+    server
+    edge locations
+    global database
+    caches
+    event streams
+
+
+
+backend logic
+
+backend evolve into cloud native machines
+
+    express / fastify / nestjs
+    go fw
+    python fastapi
+    rust web servers
+    next.js server functions
+    serverless functions
+
+architecture
+    microservices
+    event driven systems
+    message queues
+    serverless compute
+    distributed cron
+    edge rendering
+bn stop being one machine ---> becomes independent services working together
+
+
+
+db
+
+
+sql get superpowers
+    postgre becomes king
+    planent scale = serverless mysql
+    neon = serverless postgre
+    supabase = postgre + realtime
+
+no sql 
+    mongodb atlas
+    firestore
+
+
+
+auth
+
+    login becomes outsourced and polished
+    logins used to be:
+        write code in PHP that checks password
+            oauth
+            jwt tokens
+            magic links
+            passkey / webauthn
+            auth providers like auth0, clerk, firebase
+
+
+servers
+
+    servers tuen into cloud creatures
+    servers stop being a single machines in a data centers
+
+        docket for packaging
+        kubernetes for orchestration
+        serverless function for instant compute
+        edge compute for global speed
+        auto scaling
+        automatic healing
+        load balancing
+        traffic routing
+
+
+hosting / deployment 
+
+    vercel
+    render
+    aws amplify
+
+    push to git --> auto deploy
+    preview deployment
+    env variables
+    auto ssl
+
+
+
+api
+
+    rest
+    graphqql
+    grpc
+    websockets
+    edge functions
+
+    api get
+        rate limits
+        caching layers
+        type safety
+        schemes
+        auto gent docs
+
+
+
+
+devtooling
+
+
+typescript
+webpack --> parcel ---> vite ---> turbopack
+babel
+eslint
+prettier
+docket
+github action
+monorepo tools
+story book
+
+
+

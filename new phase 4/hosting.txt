@@ -1,0 +1,15 @@
+ready to show the world
+
+put your app on the internet so anyone can use it
+    push code in github
+    connect github to vercel
+    vercel automatically builds and deploys
+    your app is live at yourapp.vercel.app
+
+tools you use:
+    vercel
+    netlify
+    railway
+    github
+
+a live website accessible to EVERYONE

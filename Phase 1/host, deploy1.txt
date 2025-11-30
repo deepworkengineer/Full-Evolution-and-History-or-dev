@@ -1,0 +1,9 @@
+a server is basically a USB drive on the internet
+
+u open a FTP terminal, shove index.html into /var/www/html and boom, the website appears
+
+no git
+no backup
+no safety net
+
+if u overwrite a file, well ... now everyone sees your mistake live. congrates

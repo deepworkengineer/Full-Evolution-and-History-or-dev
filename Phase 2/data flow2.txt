@@ -1,0 +1,53 @@
+phase 2
+
+the web learns how to talk
+
+dynamic content is born. Websites finally get a memory
+
+A. Full page reload (the default)
+    form -----> backend -------> DB ------> NEW HTML -----> RELOAD
+
+example:
+    post/login
+    server checks DB
+    server responds with login.html
+    browser reloads
+
+
+B. AJAX (2004 - 2005)
+
+the first time the browser can say:
+    GET /api/products
+
+    without nuking the page
+
+Formats:
+    XML
+    HTML fragments
+    JSON 
+
+
+
+
+
+
+user submits a form 
+
+    HTML looked like this:
+        tHE Moment they clicked login
+
+    the browser did:
+        send POST/ login
+        reload the whole page
+        stop showing the previous page
+
+browser literally dropped everything it was displaying
+
+
+
+
+JS CREATES A REQUEST
+BROWSER SENDS REQUEST WITHOUT LEAVING THE PAGE
+SERVER RETURNS ONLY DATA
+JAVASCRIPT RECIEVES THE DATA
+JAVASCRIPT MANUALLY UPDATES THE UI

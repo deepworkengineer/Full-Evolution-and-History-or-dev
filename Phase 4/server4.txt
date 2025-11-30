@@ -1,0 +1,18 @@
+server = not one machine anymore, a cloud creature
+
+
+you dont manage a server
+you manage  container, clusters, and functions
+
+
+
+key powers:
+    docker: pack you app so it runs anywhere
+    kubernetes: run many containers on many machines
+    serverless: run code without owning any servers
+    edge compute: run code close to users
+    auto scaling: more machines when traffic increases
+    self healing: restart when something dies
+
+this isnta computer
+its a global swarm doing your thinking

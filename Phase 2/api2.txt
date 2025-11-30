@@ -1,0 +1,9 @@
+apis appear but they are painful to use
+
+    websites start giving data, not just pages
+    but the data came in XML which is big and annoying
+    companies also used SOAP, wehich is XML but even heavier
+    JSON is invented, but not popular yet
+
+think of it like takingn to someone who uses 10 extra words for everything
+they answer your question, but in the worst way

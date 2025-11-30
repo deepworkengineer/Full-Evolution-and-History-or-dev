@@ -1,0 +1,12 @@
+websites only showed pages. nothing else
+
+    the web could only send HTML pages
+    no JSON
+    no XML
+    no API
+    machines couldn't ask websites for data
+    only humans could click links
+
+think of it like a book
+you can read it, but u cant ask it questions
+

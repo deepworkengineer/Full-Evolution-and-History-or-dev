@@ -1,0 +1,147 @@
+frontend ui
+
+websites finally stop being ugly
+
+    bootstrap
+    css3
+    media queries
+    icon fonts
+
+build layout quickly
+makes sites look consistent
+design once and work on mobile
+use prebuild buttons, navbars, and cards
+
+
+frontend logic
+
+js grows up and becomes useful
+
+jquery makes everything easy
+backbone / angularjs invent structured frontend apps
+requirejs, browsify allow js modules
+ajax becomes one line on code
+
+    become updates
+    fetch data without reload
+    complex ui state
+    animations
+    app like interactions
+
+
+
+navigation / routing 
+
+tools like:
+    backbone router
+    angular js router
+    HTML 5 history api
+    hash url
+
+switch pages instantly
+avoid reload
+feel like apps
+handle deep links
+
+
+
+state management
+
+for the first time, frontend has too much state
+
+    js variables
+    jquery plugins
+    angularjs two way binding
+    cookies
+    localstorage / sessionstorage
+    server sessions
+
+    MVVM (Angular)
+    MVC (Backbone)
+    service based state
+
+
+
+Data flow 
+
+    webpages start updating themselves
+    AJAX becomes normal. JSON Replace XML
+    REST becomes the main API Styles
+
+    browser --- JSON API --- Server --- Database
+    backend --- JSON ------ Browser instantly
+
+    infinite scroll
+    chat apps
+    dashboard
+    autocomplete
+    partial screen refresh
+
+
+
+Backend logic
+
+rails
+django
+lavaral
+express.js
+spring mvc
+
+
+
+db
+
+
+mysql
+postgresql
+sql server
+oracle
+
+
+
+auth
+
+sessions + cookies
+oauth
+token based api auth
+
+
+
+server
+
+
+apache
+nginx
+express.js
+pm2/forever
+
+
+
+hosting / deployment
+
+
+aws ec2
+heroku
+digitalocean
+github deply hooks
+
+
+
+api
+
+rest becomes global standard
+json replaces xml
+oauth secures api calls
+mobiule apps and web apps use same api
+cors becomes a browser rule
+
+
+
+devtoolins
+
+chrome devtools
+github
+node.js + npm
+grunt, gulp
+sass/las
+sublime text

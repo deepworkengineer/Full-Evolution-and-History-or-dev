@@ -1,0 +1,20 @@
+typescript
+
+fast bundlers
+
+babel
+
+
+eslint + prettier
+
+
+docker
+
+
+github actions
+
+modern package managers
+
+vs code 
+
+ai tools

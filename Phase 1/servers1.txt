@@ -1,0 +1,13 @@
+servers (1990)
+
+one process: accept HTTP requests, return file bytes, 
+
+
+file vending machine
+
+    u request a file
+    it gives u that file
+    cannot think
+    canot remember
+
+    

@@ -1,0 +1,73 @@
+the web learns design, components, and responsiveness
+
+phase 2 gave the web CSS + TABLES + DIVS
+
+Phase 3
+                
+
+
+css 3 - the big upgrades
+
+border-radius ---> rounded corners
+box-shadows     --> drop shadows
+text-shadows    
+opacity
+gradients
+transforms (rotate, scale)
+transitions (smooth animations)
+keyframe animations
+better selectors
+better background control
+
+
+responsive design 
+
+website adapt to screen size
+
+ui that became possible
+    mobile layouts
+    collapsing navbars
+    responsive grids
+    fluid images
+    desktop, tablet, mobile views
+
+
+bootstrap - the design revolution
+12 column grid layouts 
+automatically responsive and consistent
+prebuilt ui component
+
+    navbars
+    cards
+    alerts
+    buttons
+    forms
+    badges
+why bootstrap mattered:
+    startups shipped 10x faster
+    design didnt look horrible
+    teams followed the same ui structure
+    developers didnt need designers for basic ui
+it standardized the look of the modern web
+
+icon fonts:
+    scalable icons
+    color-change icons
+    hover effects on icons
+    consistent icon sets
+    no blurry PNG
+
+early component concepts 
+    directives --> custom HTML tags
+    templates
+    reuseable UI Blocks
+    binding UI to data
+HTML + JS + CSS combined into reusable chunks
+DNA of modern compnents (react, vue, svelte)
+
+
+what is a directive? 
+a way to teach html a new behavior
+lets u define your own HTML tag, class or attribute
+
+

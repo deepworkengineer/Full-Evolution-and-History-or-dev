@@ -1,0 +1,77 @@
+javascript arrives. the dom arrives
+the browser now has a heartbeat, even if its one weak neuron
+
+you finally get:
+    functions
+    variables
+    events
+    DOM manipulation
+    basic state changes
+
+
+
+
+DOM --- tree of objects
+
+<h1>Hello</h1>
+browser converts into:
+    document
+    |____ <html>
+            |---- <body>
+                    |--- <h1>
+                          |--- "Hello"
+
+
+
+
+selecting elements
+
+this was the era before fancy APIs. you mostly used:
+document.getElementById("id")
+document.getElementsByTagName("div")
+document.getElementsByClassName("btn")
+
+
+
+
+
+Event logic:
+
+early js logic was honestly baby level:
+    * user clicks button --> run functions
+    * user types something --> run function
+    * user submit form ----> run function
+
+
+
+
+
+Form Validation:
+
+this is where JS actually become useful
+
+
+
+
+
+show / hide elements
+
+fancy stuff in 1998
+
+
+
+
+
+changing styles
+
+element.style.color = "red"
+element.style.background = "yellow"
+
+
+
+
+
+basic animations
+
+this era invented painful manual animations
+people used this to make menues slides down like they are drunk

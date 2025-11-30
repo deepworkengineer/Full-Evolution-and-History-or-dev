@@ -1,0 +1,17 @@
+tools suddenly evolve, like pokemon on steroids
+
+chrome devtools
+
+github
+
+node.js
+
+npm
+
+build tools (Grunt, Gulp)
+
+
+sass / less
+
+
+

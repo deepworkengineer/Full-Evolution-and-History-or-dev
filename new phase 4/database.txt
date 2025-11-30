@@ -1,0 +1,19 @@
+store everything permanently
+    all user accounts
+    all posts ever made
+    all comments
+    all likes
+    everything!
+
+tools you user:
+    supabase: easy postgreSQL (SQL DATABASE)
+    mongo db: noSQL database
+    postgreSQL : most powerful SQL
+    prisma: makes database easier to work with
+
+user table: id, name, email, password
+posts table: id, user_id, image_url, caption, created_at
+like table: id, user_id, post_id
+comments table: id, user_id, text
+
+the permanent filing cabinet! Everything important gets saved here forever. Close the app, data still there!

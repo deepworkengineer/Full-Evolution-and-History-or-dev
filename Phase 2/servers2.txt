@@ -1,0 +1,15 @@
+now the server can run code like PHP / ASP / JSP
+
+this makes real apps
+    login
+    user profiles
+    dashboards
+    shopping carts
+
+it can also
+    store sessions
+    read cookies
+    talk to db
+    build HTML on the fly
+
+dynamic websites were born

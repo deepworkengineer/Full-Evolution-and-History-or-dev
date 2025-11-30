@@ -1,0 +1,12 @@
+no memory at all
+
+every time you load a page
+
+    the browser forgets who you are
+    forgets what you clicked
+    forgets your cart
+    forgets anything you typed
+
+web is basically a goldfish
+
+that's it

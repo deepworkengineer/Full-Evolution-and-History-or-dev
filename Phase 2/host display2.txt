@@ -1,0 +1,17 @@
+shared hosting. 300 people living in the same 1BHK
+
+cheap hosting companies gave everyone a tiny folder an a giant linux machine
+u used cPanel and FTP clients like FileZilla to drag files into public_html
+
+deployment steps looked like:
+    drag file
+    hope it works
+    see white screen
+    panic
+    drag old file back
+    suffer loudly
+
+no logs
+no rollbacks
+no safely
+just a bunch of PHP files lives dangerously

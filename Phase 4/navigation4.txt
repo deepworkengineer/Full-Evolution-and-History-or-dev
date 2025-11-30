@@ -1,0 +1,16 @@
+routing becomes grown up
+
+modern tools
+    react router
+    next.js
+    remix
+    nuxt
+    sveltekit
+
+what they do
+    preload pages before you click
+    layout that never reload
+    nested routes
+    fast transition
+    server + client merging brains
+    

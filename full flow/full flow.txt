@@ -1,0 +1,95 @@
+frontend ui 
+    no color, layout, styles, fonts
+
+frontend logic
+    the page could not think. At all
+no buttons that do stuff
+no popups
+no animations 
+no validation
+you click a link, and that's this only "interaction" possible
+a 1990 webpage is basically a PDF someone glued into a browser
+
+navigation 
+    u had one magical tool
+click -> entire page reloads from scratch
+there was no:
+    SPA
+    partial update
+    router
+    transitions
+    dynamic navigation
+it felt the flipping images in a book
+
+
+state management 
+
+the browser remembered nothing
+reload === brain wipe
+switch page === brain wipe
+
+there was NO:
+    cookie
+    session
+    token
+    javascript memory
+    localstorage
+    saving data
+
+every click was a complete reset
+its like meeting someone new for the first time every 3 seconds
+
+
+data flow
+
+the entire flow was this masterpiece
+browser: yo server, give me index.html
+server: here, take it 
+that it
+
+
+
+backend logic
+
+doesnt exist 
+servers were vending machines, put in a request --> get a file
+
+
+auth
+
+no
+
+
+servers
+
+the first gen of web servers did exactly one thing
+    look at your url
+    find the matching file
+    send it back as -is
+
+no routing logic
+no middleware
+no backend calculation
+
+
+
+hosting / deployments
+
+u open a FTP connection to a UNIX machine
+    ftp myserver.com
+    put index.html
+
+your site is "live"
+just dump files on a server and hope they load
+
+
+
+API
+
+no
+
+
+
+dev tooling
+
+typed HTML 

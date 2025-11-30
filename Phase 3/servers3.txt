@@ -1,0 +1,16 @@
+servers got a bigger team
+one server did everything
+now the job got split
+
+
+Nginx sits in front handles incoming traffic
+app servers (node, django, rails) run actual logic
+database stores data
+redis caches stuff
+websockets let you do real time chat
+load balancers distribute traffic
+api replace full page reloads
+
+this is where websites become apps
+
+

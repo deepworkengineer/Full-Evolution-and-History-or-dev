@@ -1,0 +1,16 @@
+when deploying to production
+
+you code needs to run somewhere 24 x 7
+
+    not your laptop
+    professional servers in the cloud
+    auto scales if millions of users come
+    auto heals if somethiing breaks
+
+tools:
+    vercel
+    aws
+    docker 
+    kubernets
+
+your app running on cloud servers

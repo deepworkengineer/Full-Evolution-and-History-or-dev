@@ -1,0 +1,69 @@
+
+
+the 2006 kid! -- helper friend (jquery)
+
+i want to add a toy truck
+    tell your friend "find a wall"
+    tell your friend "draw a truck"
+    tell your friend "put it next to the cat"
+
+still manual, but now you have a helper! but u still tell them every tiny step
+
+
+
+
+2010 kid -- walkie talkie (backbone)
+
+
+when i add a toy, tell the wall to update!
+
+like playing with walkie talkie
+i got a new truck! over
+friend with walkie - talkie roger! drawing it now! over
+
+
+
+2010 kid - magic mirror (angular)
+
+you have a magic mirror on the wall!
+
+whatever u write in your notebook appears on the mirror automatically!
+
+how it works:
+    mirrors checks your notebook every second
+    did anything change? Did anything change?
+    OH!  a new toy! let me draw it
+
+mirror gets tired checking 1000 times per second
+
+
+
+
+2019 kid --- recipe card (react)
+
+u have recipe cards that tell you what the picture should look lik3
+
+
+look at toy list --> draw picture of each toy
+toys = ['cars', 'ball', 'truck']
+
+
+check recipe (state)
+bake entire batch (render)
+if recipe changes ---> bake new batch
+
+but react is smart it redraw only what changed (secretly compares old vs new)
+
+
+
+
+2020 kid ---- Smart crayons (Vue)
+
+your crayons are ALIVE
+
+each crayon knows its job
+    only the crayon you need wake up
+    others stay sleeping
+    super efficient
+
+    
